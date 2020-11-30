@@ -1,1 +1,1 @@
-# SpringRestServiceSemoApplication
+# SpringRestServiceDemoApplication
